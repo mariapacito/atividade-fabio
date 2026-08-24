@@ -1,2 +1,5 @@
-# atividade fabio
- atividade fabio 20 commits
+# Meu Projeto
+Projeto simples com HTML, CSS e JS.
+
+# informatica 6 A
+Maria Clara Pacito Seleguim. 
